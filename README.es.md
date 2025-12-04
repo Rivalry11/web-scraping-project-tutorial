@@ -17,7 +17,7 @@ Sigue las siguientes instrucciones:
 ## 📝 Instrucciones
 
 1. **Lee el archivo `./INSTRUCTIONS.es.md`** para conocer los pasos detallados del proyecto.  
-2. **Desarrolla tu solución en `./src/explore.ipynb`**. Cuando estes en el archivo `./src/explore.ipynb`, asegúrate de **seleccionar el kernel adecuado**. Al abrir el notebook, aparecerá un mensaje en la parte superior indicando **"Select Kernel"**. Haz clic en **"Select Kernel"** (como se muestra en la imagen).       
+2. **Desarrolla tu solución en `./src/explore.ipynb`**. Cuando estés en el archivo `./src/explore.ipynb`, asegúrate de **seleccionar el kernel adecuado**. Al abrir el notebook, aparecerá un mensaje en la parte superior indicando **"Select Kernel"**. Haz clic en **"Select Kernel"** (como se muestra en la imagen).       
 
     ![image-kernel](https://github.com/4GeeksAcademy/probability-exercises-project-in-python/blob/main/assets/image-kernel.png?raw=true)
 
